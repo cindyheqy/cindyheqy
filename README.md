@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @cindyheqy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Qingyi @ University of Chicago
+- 👀 I’m interested in data science and analytics
+- 🌱 I’m currently learning program evaluation
+- 💞️ I’m looking to collaborate on more advanced data science projects. 
+- 📫 How to reach me: qingyihe@uchiago.edu
 
 <!---
 cindyheqy/cindyheqy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
