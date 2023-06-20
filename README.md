@@ -7,10 +7,8 @@
 Some other projects I am working on: 
 
 Building data infrastructure at Open Spatial Lab, Data Science Institute at UChicago. 
-https://github.com/open-spatial-lab/dextra
 
 Pesticide Use in Hawai'i
-https://github.com/chicago-cdac/hawaii-pesticides
 
 
 
