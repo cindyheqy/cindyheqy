@@ -4,13 +4,7 @@
 - 💞️ I’m looking to collaborate on more advanced data science projects. 
 - 📫 How to reach me: qingyihe@uchiago.edu
 
-Some other projects I am working on: 
-
-Building data infrastructure at Open Spatial Lab, Data Science Institute at UChicago. 
-
-Pesticide Use in Hawai'i
-
-
+I am now working as community data fellow at the Data Science Institute at UChicago. 
 
 <!---
 cindyheqy/cindyheqy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
